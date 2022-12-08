@@ -1,4 +1,4 @@
-# GUI - Currency Converter using python
+# GUI - Currency Converter using Python
 ## Contains Python program to convert the currency of one country to that of another country. 
 ## Modules used:
 ## 1. tkinter: It facilities  Graphical User interfaces (GUIs).
